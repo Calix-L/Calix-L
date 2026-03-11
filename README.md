@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Calix Lin
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Calix-L&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Calix-L?style=social" alt="followers" />
+</p>
+
+## 🏆 Kaggle Silver Medal
+
+<p align="center">
+  <img src="kaggle-silver-medal.png" alt="Kaggle Silver Medal - Vesuvius Challenge" width="600" />
 </p>
 
 ## 🎯 About Me
@@ -21,7 +27,7 @@
 
 ## 🏆 Achievements
 
-- 🥈 Silver Medal - Vesuvius Challenge (Kaggle)
+- 🥈 Silver Medal - Vesuvius Challenge (Kaggle) - #57/1391
 - 📄 ClinKD Medical VQA Paper (Submitted to NIPS)
 - 🏆 Smart Campus Digital Twin System (Team Lead)
 - 🏥 GI Capsule Endoscopy Recognition (96.3% Accuracy)
@@ -46,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Calix-L&show_icons=true&theme=radical" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix-L&layout=compact&theme=radical" height="180" alt="languages" />
 </p>
 
 ## 🔗 Connect
@@ -56,10 +62,10 @@
   <a href="mailto:1553181496@qq.com">
     <img src="https://img.shields.io/badge/Email-1553181496@qq.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-your--username-black?style=flat&logo=github" />
+  <a href="https://github.com/Calix-L">
+    <img src="https://img.shields.io/badge/GH-Calix--L-black?style=flat&logo=github" />
   </a>
 </p>
 
 ---
-⭐️ From [Calix Lin](https://github.com/your-username)
+⭐️ From [Calix](https://github.com/Calix-L)
