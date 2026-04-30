@@ -78,6 +78,8 @@
 
 ---
 
+### GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Calix-L&show_icons=true&hide_border=true&rank_icon=github&title_color=7B2D8E&icon_color=6366F1&text_color=9CA3AF&bg_color=00000000" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix-L&layout=compact&hide_border=true&title_color=7B2D8E&text_color=9CA3AF&bg_color=00000000" height="150" alt="langs" />
@@ -85,7 +87,7 @@
 
 ---
 
-<div align="center">
+### Contact
 
   <a href="mailto:zhenxinlin290@gmail.com"><img src="https://img.shields.io/badge/Email-zhenxinlin290@gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/Calix-L"><img src="https://img.shields.io/badge/GitHub-Calix--L-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
