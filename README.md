@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:155E75,100:14B8A6&text=Calix%20Lin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=LLM%20Engineer%20·%20SFT%20·%20RLHF%20·%20Multimodal&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:155E75,100:14B8A6&text=Calix%20Lin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=LLM%20Post-Training%20%26%20Alignment&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 </div>
 
 <div align="center">
