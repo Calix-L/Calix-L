@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:155E75,100:14B8A6&text=Calix%20Lin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=LLM%20Post-Training%20and%20Alignment&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 </div>
 
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Building+production-grade+LLM+systems;From+data+curation+to+deployment-ready+checkpoints" alt="typing" />
-
-</div>
-
 <br>
 
 <div align="center">
@@ -28,10 +22,9 @@
       <a href="https://github.com/Kingsoft-LLM"><img src="./assets/logo-kingsoft.png" width="56" alt="Kingsoft" /></a>
     </td>
     <td valign="top">
-      <strong>AI Research Intern</strong><br />
-      <a href="https://www.wps.cn">Kingsoft</a><br />
-      <em>LLM Post-training · SFT · RLHF · Alignment</em><br /><br />
-      Building and iterating SFT + RL workflows for production LLMs. Focus on data quality control, preference-pair construction, and alignment behavior optimization.
+      <strong>AI Research Intern</strong> · <a href="https://github.com/Kingsoft-LLM">Kingsoft</a><br />
+      <em>SFT · RLHF · Alignment</em><br />
+      <sub>Iterating post-training pipelines for production LLMs — data quality control, preference-pair construction, and alignment behavior optimization.</sub>
     </td>
   </tr>
 </table>
@@ -42,10 +35,9 @@
       <a href="https://www.zhipuai.cn"><img src="./assets/logo-zhipu.svg" width="56" alt="Zhipu AI" /></a>
     </td>
     <td valign="top">
-      <strong>AI Research Intern</strong><br />
-      <a href="https://www.zhipuai.cn">Zhipu AI</a><br />
-      <em>SFT · RLHF · Training Recipes · Evaluation</em><br /><br />
-      Built SFT + RL pipelines including instruction formatting, training recipe tuning, and post-training evaluation. Worked on data quality pipelines and inference-oriented validation.
+      <strong>AI Research Intern</strong> · <a href="https://www.zhipuai.cn">Zhipu AI</a><br />
+      <em>SFT · RL · Evaluation</em><br />
+      <sub>Built SFT + RL pipelines covering instruction formatting, training recipe tuning, and post-training evaluation with inference-oriented validation.</sub>
     </td>
   </tr>
 </table>
@@ -56,10 +48,26 @@
       <a href="https://github.com/Tele-AI"><img src="./assets/logo-teleai.png" width="56" alt="China Telecom AI" /></a>
     </td>
     <td valign="top">
-      <strong>AI Research Intern (Multimodal)</strong><br />
-      <a href="https://github.com/Tele-AI">China Telecom AI Research Institute</a><br />
-      <em>Multimodal R&D · Fine-tuning · Evaluation</em><br /><br />
-      Participated in multimodal R&D across dataset preparation, fine-tuning, and evaluation for text-image understanding and generation. Bridged research prototypes with engineering pipelines.
+      <strong>AI Research Intern (Multimodal)</strong> · <a href="https://github.com/Tele-AI">China Telecom AI Research Institute</a><br />
+      <em>Multimodal · Fine-tuning · Evaluation</em><br />
+      <sub>Multimodal R&D across dataset preparation, fine-tuning, and evaluation for text-image understanding; bridged research prototypes with serving pipelines.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Publication
+
+<table>
+  <tr>
+    <td width="36" valign="top">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-991B1B?style=flat-square" alt="neurips" />
+    </td>
+    <td valign="top">
+      <strong>Paper Title Here</strong><br />
+      <sub>Calix Lin, Author Two, Author Three</sub><br />
+      <a href="https://proceedings.neurips.cc/">[Paper]</a>
     </td>
   </tr>
 </table>
@@ -87,19 +95,9 @@
 
 ---
 
-### GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calix-L&show_icons=true&hide_border=true&rank_icon=github&title_color=155E75&icon_color=14B8A6&text_color=334155&bg_color=00000000" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix-L&layout=compact&hide_border=true&title_color=155E75&text_color=334155&bg_color=00000000" height="160" alt="langs" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Calix-L/Calix-L/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Calix-L/Calix-L/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Calix-L/Calix-L/blob/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Calix-L&show_icons=true&hide_border=true&rank_icon=github&title_color=155E75&icon_color=14B8A6&text_color=334155&bg_color=00000000" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix-L&layout=compact&hide_border=true&title_color=155E75&text_color=334155&bg_color=00000000" height="150" alt="langs" />
 </div>
 
 ---
