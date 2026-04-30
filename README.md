@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:155E75,100:14B8A6&text=Calix%20Lin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=LLM%20Post-Training%20and%20Alignment&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1B2A,50:1B3A5C,100:7B2D8E&text=Calix%20Lin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=LLM%20Post-Training%20and%20Alignment&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 </div>
 
 <br>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Manchester%20Metropolitan%20University-Undergraduate-155E75?style=flat-square" alt="university" />
+  <img src="https://img.shields.io/badge/Manchester%20Metropolitan%20University-Undergraduate-1B3A5C?style=flat-square" alt="university" />
   <img src="https://img.shields.io/badge/Kaggle-Silver%20Medal%20·%20Top%205%25-1D4ED8?style=flat-square&logo=kaggle&logoColor=white" alt="kaggle" />
-  <img src="https://img.shields.io/badge/NeurIPS-Paper%20Author-991B1B?style=flat-square" alt="neurips" />
+  <img src="https://img.shields.io/badge/NeurIPS-Paper%20Author-7B2D8E?style=flat-square" alt="neurips" />
 
 </div>
 
@@ -57,23 +57,6 @@
 
 ---
 
-### Publication
-
-<table>
-  <tr>
-    <td width="36" valign="top">
-      <img src="https://img.shields.io/badge/NeurIPS-2024-991B1B?style=flat-square" alt="neurips" />
-    </td>
-    <td valign="top">
-      <strong>Paper Title Here</strong><br />
-      <sub>Calix Lin, Author Two, Author Three</sub><br />
-      <a href="https://proceedings.neurips.cc/">[Paper]</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Post-Training Tech Stack
 
 <div align="center">
@@ -96,8 +79,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calix-L&show_icons=true&hide_border=true&rank_icon=github&title_color=155E75&icon_color=14B8A6&text_color=334155&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix-L&layout=compact&hide_border=true&title_color=155E75&text_color=334155&bg_color=00000000" height="150" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Calix-L&show_icons=true&hide_border=true&rank_icon=github&title_color=7B2D8E&icon_color=6366F1&text_color=9CA3AF&bg_color=00000000" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix-L&layout=compact&hide_border=true&title_color=7B2D8E&text_color=9CA3AF&bg_color=00000000" height="150" alt="langs" />
 </div>
 
 ---
