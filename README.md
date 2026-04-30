@@ -66,21 +66,22 @@
 
 ---
 
-### Tech Stack
+### Post-Training Tech Stack
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="pytorch" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="huggingface" />
-  <img src="https://img.shields.io/badge/PEFT-LoRA%20%7C%20QLoRA-0284C7?style=flat-square" alt="peft" />
-  <img src="https://img.shields.io/badge/TRL-RLHF-1D4ED8?style=flat-square" alt="trl" />
-  <img src="https://img.shields.io/badge/Llama--Factory-1E40AF?style=flat-square" alt="llamafactory" />
   <img src="https://img.shields.io/badge/DeepSpeed-0F172A?style=flat-square" alt="deepspeed" />
+  <img src="https://img.shields.io/badge/Megatron--LM-6B4FBB?style=flat-square" alt="megatron" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="huggingface" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="transformers" />
+  <img src="https://img.shields.io/badge/PEFT-LoRA%20%7C%20QLoRA-0284C7?style=flat-square" alt="peft" />
+  <img src="https://img.shields.io/badge/TRL-RLHF%20%7C%20DPO%20%7C%20GRPO-1D4ED8?style=flat-square" alt="trl" />
+  <img src="https://img.shields.io/badge/Llama--Factory-SFT%20%7C%20RL-1E40AF?style=flat-square" alt="llamafactory" />
+  <img src="https://img.shields.io/badge/Axolotl-9333EA?style=flat-square" alt="axolotl" />
   <img src="https://img.shields.io/badge/vLLM-059669?style=flat-square" alt="vllm" />
   <img src="https://img.shields.io/badge/SGLang-0EA5E9?style=flat-square" alt="sglang" />
-  <img src="https://img.shields.io/badge/LangChain-16A34A?style=flat-square" alt="langchain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-0F766E?style=flat-square" alt="llamaindex" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="wandb" />
 
 </div>
 
