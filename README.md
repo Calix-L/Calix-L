@@ -15,6 +15,10 @@
 
 ---
 
+Focused on building production-ready post-training pipelines — from data curation and SFT to RLHF and alignment — with hands-on experience across three AI organizations.
+
+---
+
 ### Experience
 
 <table>
@@ -24,6 +28,7 @@
     </td>
     <td valign="top">
       <strong>AI Research Intern</strong> · <a href="https://github.com/Kingsoft-LLM">Kingsoft</a><br />
+      <sub>2026.03 — Present</sub><br />
       <em>SFT · RLHF · Alignment</em><br />
       <sub>Iterating post-training pipelines for production LLMs — data quality control, preference-pair construction, and alignment behavior optimization.</sub>
     </td>
@@ -37,6 +42,7 @@
     </td>
     <td valign="top">
       <strong>AI Research Intern</strong> · <a href="https://www.zhipuai.cn">Zhipu AI</a><br />
+      <sub>2025.09 — 2026.02</sub><br />
       <em>SFT · RL · Evaluation</em><br />
       <sub>Built SFT + RL pipelines covering instruction formatting, training recipe tuning, and post-training evaluation with inference-oriented validation.</sub>
     </td>
@@ -50,6 +56,7 @@
     </td>
     <td valign="top">
       <strong>AI Research Intern (Multimodal)</strong> · <a href="https://github.com/Tele-AI">China Telecom AI Research Institute</a><br />
+      <sub>2025.06 — 2025.09</sub><br />
       <em>Multimodal · Fine-tuning · Evaluation</em><br />
       <sub>Multimodal R&D across dataset preparation, fine-tuning, and evaluation for text-image understanding; bridged research prototypes with serving pipelines.</sub>
     </td>
@@ -66,7 +73,6 @@
   <img src="https://img.shields.io/badge/DeepSpeed-0F172A?style=flat-square" alt="deepspeed" />
   <img src="https://img.shields.io/badge/Megatron--LM-6B4FBB?style=flat-square" alt="megatron" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="huggingface" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="transformers" />
   <img src="https://img.shields.io/badge/PEFT-LoRA%20%7C%20QLoRA-0284C7?style=flat-square" alt="peft" />
   <img src="https://img.shields.io/badge/TRL-RLHF%20%7C%20DPO%20%7C%20GRPO-1D4ED8?style=flat-square" alt="trl" />
   <img src="https://img.shields.io/badge/Llama--Factory-SFT%20%7C%20RL-1E40AF?style=flat-square" alt="llamafactory" />
@@ -89,6 +95,8 @@
 ---
 
 ### Contact
+
+<div align="center">
 
   <a href="mailto:zhenxinlin290@gmail.com"><img src="https://img.shields.io/badge/Email-zhenxinlin290@gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/Calix-L"><img src="https://img.shields.io/badge/GitHub-Calix--L-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
