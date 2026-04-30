@@ -13,8 +13,6 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Manchester%20Metropolitan%20University-Undergraduate-155E75?style=flat-square" alt="university" />
-  <img src="https://img.shields.io/badge/Zhipu%20AI-LLM%20Algorithm%20Intern-0F172A?style=flat-square" alt="zhipu" />
-  <img src="https://img.shields.io/badge/China%20TeleAI-Multimodal%20Intern-334155?style=flat-square" alt="teleai" />
   <img src="https://img.shields.io/badge/Kaggle-Silver%20Medal%20·%20Top%205%25-1D4ED8?style=flat-square&logo=kaggle&logoColor=white" alt="kaggle" />
   <img src="https://img.shields.io/badge/NeurIPS-Paper%20Author-991B1B?style=flat-square" alt="neurips" />
 
@@ -22,9 +20,51 @@
 
 ---
 
-I focus on **post-training LLM pipelines** — supervised fine-tuning, RLHF, and alignment — with hands-on experience shipping models under real product constraints. Currently exploring multimodal instruction tuning and inference optimization.
+### Experience
 
-<br>
+<table>
+  <tr>
+    <td width="72" valign="top">
+      <a href="https://www.kingsoft.com"><img src="https://avatars.githubusercontent.com/u/16472624?s=96&v=4" width="56" alt="Kingsoft" /></a>
+    </td>
+    <td valign="top">
+      <strong>AI Research Intern</strong><br />
+      <a href="https://www.kingsoft.com">Kingsoft</a><br />
+      <em>LLM Post-training · SFT · RLHF · Alignment</em><br /><br />
+      Building and iterating SFT + RL workflows for production LLMs. Focus on data quality control, preference-pair construction, and alignment behavior optimization.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="72" valign="top">
+      <a href="https://www.zhipuai.cn"><img src="https://avatars.githubusercontent.com/u/133244859?s=96&v=4" width="56" alt="Zhipu AI" /></a>
+    </td>
+    <td valign="top">
+      <strong>LLM Algorithm Intern (SFT + RL)</strong><br />
+      <a href="https://www.zhipuai.cn">Zhipu AI</a><br />
+      <em>Instruction Formatting · Training Recipes · Evaluation</em><br /><br />
+      Built SFT + RL pipelines including instruction formatting, training recipe tuning, and post-training evaluation. Worked on data quality pipelines and inference-oriented validation.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="72" valign="top">
+      <a href="https://github.com/Tele-AI"><img src="https://avatars.githubusercontent.com/u/155808217?s=96&v=4" width="56" alt="China TeleAI" /></a>
+    </td>
+    <td valign="top">
+      <strong>Multimodal Large Models Intern</strong><br />
+      <a href="https://github.com/Tele-AI">China TeleAI</a><br />
+      <em>Multimodal R&D · Fine-tuning · Evaluation</em><br /><br />
+      Participated in multimodal R&D across dataset preparation, fine-tuning, and evaluation for text-image understanding and generation. Bridged research prototypes with engineering pipelines.
+    </td>
+  </tr>
+</table>
+
+---
 
 ### Tech Stack
 
