@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td width="72" valign="top">
-      <a href="https://www.zhipuai.cn"><img src="./assets/logo-zhipu.png" width="56" alt="Zhipu AI" /></a>
+      <a href="https://www.zhipuai.cn"><img src="./assets/logo-zhipu.svg" width="56" alt="Zhipu AI" /></a>
     </td>
     <td valign="top">
       <strong>AI Research Intern</strong><br />
