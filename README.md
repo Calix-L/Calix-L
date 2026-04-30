@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="72" valign="top">
-      <a href="https://www.wps.cn"><img src="https://img.wps.cn/pkg/wpsui/images/wps_logo.svg" width="56" alt="Kingsoft" /></a>
+      <a href="https://github.com/Kingsoft-LLM"><img src="./assets/logo-kingsoft.png" width="56" alt="Kingsoft" /></a>
     </td>
     <td valign="top">
       <strong>AI Research Intern</strong><br />
@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td width="72" valign="top">
-      <a href="https://www.zhipuai.cn"><img src="https://www.zhipuai.cn/logo.svg" width="56" alt="Zhipu AI" /></a>
+      <a href="https://www.zhipuai.cn"><img src="./assets/logo-zhipu.png" width="56" alt="Zhipu AI" /></a>
     </td>
     <td valign="top">
       <strong>AI Research Intern</strong><br />
@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td width="72" valign="top">
-      <a href="https://github.com/Tele-AI"><img src="https://www.chinatelecom.com.cn/ct/image/img/dianxin.png" width="56" alt="China Telecom AI" /></a>
+      <a href="https://github.com/Tele-AI"><img src="./assets/logo-teleai.png" width="56" alt="China Telecom AI" /></a>
     </td>
     <td valign="top">
       <strong>AI Research Intern (Multimodal)</strong><br />
