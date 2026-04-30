@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td width="72" valign="top">
-      <a href="https://www.kingsoft.com"><img src="https://avatars.githubusercontent.com/u/16472624?s=96&v=4" width="56" alt="Kingsoft" /></a>
+      <a href="https://www.wps.cn"><img src="https://img.wps.cn/pkg/wpsui/images/wps_logo.svg" width="56" alt="Kingsoft" /></a>
     </td>
     <td valign="top">
       <strong>AI Research Intern</strong><br />
-      <a href="https://www.kingsoft.com">Kingsoft</a><br />
+      <a href="https://www.wps.cn">Kingsoft</a><br />
       <em>LLM Post-training · SFT · RLHF · Alignment</em><br /><br />
       Building and iterating SFT + RL workflows for production LLMs. Focus on data quality control, preference-pair construction, and alignment behavior optimization.
     </td>
@@ -39,12 +39,12 @@
 <table>
   <tr>
     <td width="72" valign="top">
-      <a href="https://www.zhipuai.cn"><img src="https://avatars.githubusercontent.com/u/133244859?s=96&v=4" width="56" alt="Zhipu AI" /></a>
+      <a href="https://www.zhipuai.cn"><img src="https://www.zhipuai.cn/logo.svg" width="56" alt="Zhipu AI" /></a>
     </td>
     <td valign="top">
-      <strong>LLM Algorithm Intern (SFT + RL)</strong><br />
+      <strong>AI Research Intern</strong><br />
       <a href="https://www.zhipuai.cn">Zhipu AI</a><br />
-      <em>Instruction Formatting · Training Recipes · Evaluation</em><br /><br />
+      <em>SFT · RLHF · Training Recipes · Evaluation</em><br /><br />
       Built SFT + RL pipelines including instruction formatting, training recipe tuning, and post-training evaluation. Worked on data quality pipelines and inference-oriented validation.
     </td>
   </tr>
@@ -53,11 +53,11 @@
 <table>
   <tr>
     <td width="72" valign="top">
-      <a href="https://github.com/Tele-AI"><img src="https://avatars.githubusercontent.com/u/155808217?s=96&v=4" width="56" alt="China TeleAI" /></a>
+      <a href="https://github.com/Tele-AI"><img src="https://www.chinatelecom.com.cn/ct/image/img/dianxin.png" width="56" alt="China Telecom AI" /></a>
     </td>
     <td valign="top">
-      <strong>Multimodal Large Models Intern</strong><br />
-      <a href="https://github.com/Tele-AI">China TeleAI</a><br />
+      <strong>AI Research Intern (Multimodal)</strong><br />
+      <a href="https://github.com/Tele-AI">China Telecom AI Research Institute</a><br />
       <em>Multimodal R&D · Fine-tuning · Evaluation</em><br /><br />
       Participated in multimodal R&D across dataset preparation, fine-tuning, and evaluation for text-image understanding and generation. Bridged research prototypes with engineering pipelines.
     </td>
