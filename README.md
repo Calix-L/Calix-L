@@ -92,8 +92,12 @@ Focused on building production-ready post-training pipelines — from data curat
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Calix-L&show_icons=true&hide_border=true&rank_icon=github&title_color=7B2D8E&icon_color=6366F1&text_color=9CA3AF&bg_color=00000000" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix-L&layout=compact&hide_border=true&title_color=7B2D8E&text_color=9CA3AF&bg_color=00000000" alt="langs" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Calix-L&theme=transparent" alt="GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Calix-L&theme=transparent" alt="GitHub stats" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Calix-L&theme=transparent" alt="Top languages" />
 </div>
 
 ---
