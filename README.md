@@ -85,10 +85,15 @@ Focused on building production-ready post-training pipelines — from data curat
 
 ---
 
-### GitHub Analytics
+### Engineering Snapshot
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/6366F1/Calix-L" alt="GitHub Contribution Chart" />
+
+  <img src="https://img.shields.io/badge/LLM%20Post--Training-SFT%20%7C%20RLHF%20%7C%20Alignment-7B2D8E?style=flat-square" alt="llm post-training" />
+  <img src="https://img.shields.io/badge/Data%20Pipeline-Curation%20%7C%20Preference%20Pairs-1D4ED8?style=flat-square" alt="data pipeline" />
+  <img src="https://img.shields.io/badge/Evaluation-Inference--Oriented%20Validation-0E7490?style=flat-square" alt="evaluation" />
+  <img src="https://img.shields.io/badge/Multimodal-Text--Image%20Understanding-9333EA?style=flat-square" alt="multimodal" />
+
 </div>
 
 <div align="center">
@@ -97,7 +102,7 @@ Focused on building production-ready post-training pipelines — from data curat
 
 <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Calix-L&theme=transparent" alt="GitHub stats" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Calix-L&theme=transparent" alt="Top languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Calix-L&theme=transparent" alt="Most committed languages" />
 </div>
 
 ---
