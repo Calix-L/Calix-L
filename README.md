@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1B2A,50:1B3A5C,100:7B2D8E&text=Calix%20Lin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=LLM%20Post-Training%20and%20Alignment&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 </div>
 
 <br>
@@ -97,12 +97,12 @@ Focused on building production-ready post-training pipelines — from data curat
 </div>
 
 <div align="center">
-  <img width="100%" src="./assets/contrib-graph.svg" alt="GitHub contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Calix-L&theme=transparent" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
-  <img src="./assets/stats.svg" alt="GitHub stats" />
-  <img src="./assets/languages.svg" alt="Most committed languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Calix-L&theme=transparent" alt="GitHub stats" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Calix-L&theme=transparent" alt="Most committed languages" />
 </div>
 
 ---
