@@ -7,7 +7,7 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Manchester%20Metropolitan%20University-Undergraduate-1B3A5C?style=flat-square" alt="university" />
-  <img src="https://img.shields.io/badge/Kaggle-Silver%20Medal%20·%20Top%205%25-1D4ED8?style=flat-square&logo=kaggle&logoColor=white" alt="kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-Expert%20·%20Top%201%25-1D4ED8?style=flat-square&logo=kaggle&logoColor=white" alt="kaggle" />
   <img src="https://img.shields.io/badge/CCF-Member-0E7490?style=flat-square" alt="ccf" />
   <img src="https://img.shields.io/badge/CAAI-Member-6D28D9?style=flat-square" alt="caai" />
 
