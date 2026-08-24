@@ -87,42 +87,23 @@ Focused on building production-ready post-training pipelines — from data curat
 
 ### Engineering Snapshot
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/Calix-L/CardKS">CardKS · Multi-Game RL</a></strong><br />
-      <sub>Residual key-structure modeling for long-horizon decisions across GuanDan, DouDizhu, and Gin Rummy.</sub><br /><br />
-      <code>PPO self-play</code> <code>Top-K retrieval</code> <code>3 games</code><br /><br />
-      <a href="https://github.com/Calix-L/CardKS">Research hub</a> ·
-      <a href="https://github.com/Calix-L/DanKS">DanKS code</a> ·
-      <a href="https://github.com/Calix-L/CardKS/blob/main/RESULTS.md">Results</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/Calix-L/Kimodo-SOMA-RP-final-showcase">Kimodo-SOMA-RP · Post-Training</a></strong><br />
-      <sub>End-to-end text-to-motion domain adaptation, from human-reviewed data to training, evaluation, and Blender visualization.</sub><br /><br />
-      <code>748 Gold clips</code> <code>Content R@1 95.33%</code> <code>48-page report</code><br /><br />
-      <a href="https://github.com/Calix-L/Kimodo-SOMA-RP-final-showcase">Showcase</a> ·
-      <a href="https://github.com/Calix-L/Kimodo-SOMA-RP-final-showcase/blob/main/Kimodo-SOMA-RP-report.pdf">Report</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Kaggle · Medal-Winning Systems</strong><br />
-      <sub>Reproducible pipelines for 3D papyrus surface segmentation and ARC-AGI ONNX graph surgery.</sub><br /><br />
-      <code>🥈 Silver · Top 5%</code> <code>🥉 Bronze · 7411.14</code><br /><br />
-      <a href="https://github.com/Calix-L/Vesuvius">Vesuvius</a> ·
-      <a href="https://github.com/Calix-L/neurogolf-2026">NeuroGolf 2026</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/Calix-L/awesome-latex-skills">awesome-latex-skills · Open Source</a></strong><br />
-      <sub>Five reusable agent skills for LaTeX rescue, academic writing, venue formatting, paper reading, and PDF-to-TeX recovery.</sub><br /><br />
-      <code>5 skills</code> <code>168 tests</code>
-      <a href="https://github.com/Calix-L/awesome-latex-skills/stargazers"><img src="https://img.shields.io/github/stars/Calix-L/awesome-latex-skills?style=flat-square&label=stars&color=7B2D8E" alt="awesome-latex-skills stars" /></a><br /><br />
-      <a href="https://github.com/Calix-L/awesome-latex-skills">Repository</a> ·
-      <a href="https://github.com/Calix-L/awesome-latex-skills/actions">CI</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img src="https://img.shields.io/badge/LLM%20Post--Training-SFT%20%7C%20RLHF%20%7C%20Alignment-7B2D8E?style=flat-square" alt="llm post-training" />
+  <img src="https://img.shields.io/badge/Data%20Pipeline-Curation%20%7C%20Preference%20Pairs-1D4ED8?style=flat-square" alt="data pipeline" />
+  <img src="https://img.shields.io/badge/Evaluation-Inference--Oriented%20Validation-0E7490?style=flat-square" alt="evaluation" />
+  <img src="https://img.shields.io/badge/Multimodal-Text--Image%20Understanding-9333EA?style=flat-square" alt="multimodal" />
+
+</div>
+
+<div align="center">
+  <img width="100%" src="./assets/profile-details.svg" alt="GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img height="150" src="./assets/stats.svg" alt="GitHub stats" />
+  <img height="150" src="./assets/most-commit-language.svg" alt="Most committed languages" />
+</div>
 
 ---
 
